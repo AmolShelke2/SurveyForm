@@ -4,7 +4,7 @@ Hey everyone I'm very glad to share that today i completed the freecodecamps cha
 
 ## Technologies Used
 
-*HTML
+* HTML
 * CSS
 
 ## ScreenShot
